@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Praffull Tembhurne
-- 👀 I’m software tester ...
-- 💞️ I’m looking to Job ...
-- 📫 praffulltembhurne@gmail.com ...
+- 👀  Software Tester | Quality Assurance Engineer...
+- 💼 Actively seeking new opportunities.
+- 📫 Reach me at praffulltembhurne@gmail.com.
 
 <!---
-Praffull88/Praffull88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Welcome to my GitHub profile! I'm a skilled software tester with expertise in quality assurance. I am passionate about ensuring the delivery of high-quality software products that meet customer expectations. I am currently looking for new job opportunities, so if you have any relevant positions available, please feel free to reach out to me at praffulltembhurne@gmail.com.
+
+Let's connect and discuss how we can work together to deliver reliable and top-notch software solutions!
 --->
